@@ -1,0 +1,674 @@
+TY  - JOUR
+TI  - Buildings Energy Performance and Real Estate Market Value: An Application of the Spatial Auto Regressive (SAR) Model
+AU  - Marta Carla Bottero
+AU  - Marina Bravi
+AU  - Giulio Mondini
+AU  - Antonio Talarico
+DO  - 10.1007/978-3-319-49676-4_16
+PY  - 2017
+AB  - This work explores the role of the buildings energy performance in defining the real estate market value, taking in consideration the presence of spatial autocorrelation. At this regard, it is necessary to put in evidence that a great heterogeneity exists on the Italian territory with reference to buildings energy performance; for this reason, being able to identify a class of most performing estimation models, suitable to separate the spatial effects from the influence of the building components—including the energy rating—on the value, seems to be an interesting goal. In particular, this work illustrates an experiment based on the Spatial Auto Regressive (SAR) model implemented on a sample of residential units located in the city of Turin and represents a first step of a more wide research program.
+JA  - 
+L2  - https://doi.org/10.1007/978-3-319-49676-4_16
+U2  - 2567231117
+ER  - 
+TY  - JOUR
+TI  - An Analysis of the Energy Efficiency Impacts on the Residential Property Prices in the City of Bari (Italy)
+AU  - Pierluigi Morano
+AU  - Paolo Rosato
+AU  - Francesco Tajani
+AU  - Felicia Di Liddo
+DO  - 10.1007/978-3-030-23786-8_5
+PY  - 2020
+AB  - With reference to the current topic of the energy efficiency of residential properties, the aim of this research is to analyze the contribution of the energy performance component on the housing prices. The study has been carried out on a sample of two hundred residential properties recently sold and located in the city of Bari (Italy). In addition to the characteristics of energy performance, the main influencing factors considered by buyers and sellers in the transactions have been detected. For this purpose, a data-driven technique has been implemented, that employs a genetic algorithm to identify the best functional expressions. The outputs obtained highlight an appreciable influence of the energy factors on the housing prices. The results could be a useful support for both the private and public actors operating in the field of residential property management.
+JA  - Values and Functions for Future Cities
+L2  - https://doi.org/10.1007/978-3-030-23786-8_5
+U2  - 2966366605
+ER  - 
+TY  - JOUR
+TI  - The impact of energy performance on single-family home selling prices in Sweden
+AU  - Lovisa Högberg
+DO  - 10.1108/jerer-09-2012-0024
+PY  - 2013
+AB  - The EU Energy Performance Certificates provide new information and measure energy performance more exactly than many earlier (proxy) variables. This is one of the first studies to test the effect of this information, and the first one using Swedish data. The purpose of the paper is to test whether energy performance affects single-family house sales prices, and whether such impact is heterogeneous over house size, age and distance from city center. The paper also examines whether recommendations for supposedly cost-effective energy efficiency measures, by intervention category (construction, installation or operation/control technical measures), are perceived as untapped potential affecting sales prices. Energy performance measurement and dummy variables for three categories of improvement recommendations were included as explanatory variables in a hedonic regression analysis using transaction data and Energy Performance Certificates data for 1073 observations. The results indicate that better energy performance has a positive impact on sales price. Energy efficiency recommendations seem to have an impact on sales price; home buyers seem to require a larger “discount” for more complex types of measures. The results may imply that energy efficiency in buildings will become more important in the future, which may strengthen house owners’/sellers’ incentives to improve energy efficiency.
+JA  - Journal of European Real Estate Research
+L2  - https://doi.org/10.1108/jerer-09-2012-0024
+U2  - 2050116221
+ER  - 
+TY  - JOUR
+TI  - The value of domestic building energy efficiency — evidence from Ireland
+AU  - Marie Hyland
+AU  - Ronan C. Lyons
+AU  - Seán Lyons
+DO  - 10.1016/j.eneco.2013.07.020
+PY  - 2013
+AB  - Abstract   Following the transposition of the EU Energy Performance of Buildings Directive into Irish law, all properties offered for sale or to let in Ireland are obliged to have an energy efficiency rating. This paper analyses the effect of energy efficiency ratings on the sale and rental prices of properties in the Republic of Ireland. Using the Heckman selection technique we model the decision to advertise the energy efficiency rating of a property and the effect of energy efficiency ratings on property values. Our results show that energy efficiency has a positive effect on both the sales and rental prices of properties, and that the effect is significantly stronger in the sales segment of the property market. We also analyse the effect of energy efficiency across different market conditions and we find that the effect of the energy rating is generally stronger where market conditions are worse.
+JA  - Energy Economics
+L2  - https://doi.org/10.1016/j.eneco.2013.07.020
+U2  - 3123505893
+ER  - 
+TY  - JOUR
+TI  - The price effect of building energy ratings in the Dublin residential market
+AU  - Sarah Stanley
+AU  - Ronan C. Lyons
+AU  - Seán Lyons
+DO  - 10.1007/s12053-015-9396-5
+PY  - 2016
+AB  - This paper is an empirical study of the relationship between the energy performance rating of residential homes in the Dublin market between 2009 and 2014 and their market prices, controlling for building type, size, age and location. Initial results suggest that energy efficiency has a significant, positive relationship with list price. A 50-point improvement in the Energy Performance Indicator (kWh/m2/year) is associated with a 1.5 % higher list price. Alternatively, using the Building Energy Rating metric, a 1-point improvement in the 15-point scale from G to A1 yields a list price increase of 1 %. This mirrors findings for efficiency price premiums on a nationwide basis from Hyland et al. (2013). We also find that it is important to include controls for the age of the dwelling to avoid biased energy efficiency estimates in the hedonic model.
+JA  - Energy Efficiency
+L2  - https://doi.org/10.1007/s12053-015-9396-5
+U2  - 2299244981
+ER  - 
+TY  - JOUR
+TI  - Energy Performance Certificates—The Role of the Energy Price
+AU  - Jon Olaf Olaussen
+AU  - Are Oust
+AU  - Jan Tore Solstad
+AU  - Lena Kristiansen
+DO  - 10.3390/en12183563
+PY  - 2019
+AB  - Energy performance certificates (EPCs) were introduced to give property buyers better information about the energy efficiency of dwellings and provide incentives to make energy-efficient investments. Previous studies on the effect of EPCs on property value have yielded divergent results, with some studies finding that energy labels affect property values, but others finding that energy labels have little or no effect. The present paper takes the analysis one step further. Using data on energy prices in combination with transaction data from Oslo, we conclude that not only the energy label, but also the energy performance of dwellings in general, has little to no effect on transaction prices. This result is in line with the inferences of several survey studies, which indicate that when people buy a dwelling, they pay considerably less attention to its energy performance compared with other factors, such as the location, neighborhood, size, garden, and the number of bedrooms.
+JA  - Energies
+L2  - https://doi.org/10.3390/en12183563
+U2  - 2974279480
+ER  - 
+TY  - JOUR
+TI  - Tearing down the information barrier: the price impacts of energy efficiency ratings for buildings in the German rental market
+AU  - Marcelo Cajias
+AU  - Franz Fuerst
+AU  - Sven Bienert
+DO  - 10.1016/j.erss.2018.08.014
+PY  - 2019
+AB  - Improving the energy efficiency levels of the housing stock is of particular concern in the private rental market where capital costs and utility cost savings are not shared in equal measure by landlords and tenants. This problem is particularly pronounced in the German housing market with its predominance of rented accommodation over owner occupancy. The present study is the largest to date to investigate the effect of energy efficiency ratings on rental values. Using a semiparametric hedonic model and an empirical sample of nearly 760 thousand observations across 403 local markets in Germany with full hedonic characteristics, we find evidence that energy-efficient rental units are rented at a premium. However, this effect is not confirmed for the largest metropolitan housing markets. In a second step, a survival hazard model is estimated to study the impact of the energy ratings on time-on-market. It is found that energy inefficient dwelling have longer marketing periods and are hence less liquid than their more energy efficient counterparts.
+JA  - Energy research and social science
+L2  - https://doi.org/10.1016/j.erss.2018.08.014
+U2  - 2894863580
+ER  - 
+TY  - JOUR
+TI  - Energy Efficiency Information and Valuation Practices in Rental Housing
+AU  - Andrea Chegut
+AU  - Piet Eichholtz
+AU  - Rogier Holtermans
+AU  - Juan Palacios
+AU  - Juan Palacios
+DO  - 10.1007/s11146-019-09720-0
+PY  - 2020
+AB  - The consensus in the academic literature is that energy efficiency is associated with transaction value premiums, but it is not clear to what extent property appraisers take account of this. We decompose external appraisals of rental housing by international valuation firms in England and the Netherlands in two waves, keeping the samples of valued homes constant between these years. We find a notable change in the behavior of external property appraisers. In England, energy performance does not impact assessed values in 2012, while estimation results for 2015 show a significant discount in assessed values for D-, E- and F- relative to C-labeled dwellings. For the Netherlands, we do not observe a significant relationship between energy efficiency and assessed values in 2010, but in 2015 we find that more energy efficiency leads to higher external valuations.
+JA  - Journal of Real Estate Finance and Economics
+L2  - https://doi.org/10.1007/s11146-019-09720-0
+U2  - 2971134310
+ER  - 
+TY  - JOUR
+TI  - Impact of energy performance on transaction prices: Evidence from the apartment market in Bucharest
+AU  - Paloma Taltavull
+AU  - Ion Anghel
+AU  - Ion Anghel
+AU  - Costin Ciora
+DO  - 10.1108/jerer-12-2016-0046
+PY  - 2017
+AB  - Purpose
+
+
+
+
+This paper aims to estimate the green premium effect of retrofitted apartments in Bucharest and draw comparisons with international examples.
+
+
+
+
+Design/methodology/approach
+
+
+
+
+A geo-referenced transaction database including information on whether the property had been retrofitted is utilised. The paper uses two approaches to test the green premium. One is a hedonic model controlled by areas to estimate the price incentive of a green building. The second is a STAR GLS model evaluating the diffusion effect of house prices spatially by sub-market and assessment upon the pricing effect of green characteristics.
+
+
+
+
+Findings
+
+
+
+
+The authors’ findings suggest a green premium in two Bucharest areas of between 2.2 per cent and 6.5 per cent. Spatial diffusion effects are shown to contribute positively to house prices, but the unobserved spatial component reduces this effect.
+
+
+
+
+Originality/value
+
+
+
+
+This paper is the first to assess price impacts of green characteristics in Bucharest and one of the first analysing green premium using spatial techniques. The analysis is of significance to policymakers and real estate developers.
+JA  - Journal of European Real Estate Research
+L2  - https://doi.org/10.1108/jerer-12-2016-0046
+U2  - 2595686288
+ER  - 
+TY  - JOUR
+TI  - The value of energy efficiency in residential buildings – a matter of heterogeneity?!
+AU  - J. Geske
+DO  - 10.1016/j.eneco.2022.106173
+PY  - 2022
+AB  - 
+JA  - Energy Economics
+L2  - https://doi.org/10.1016/j.eneco.2022.106173
+ER  - 
+TY  - JOUR
+TI  - Green and Gold Buildings? Detecting Real Estate Market Premium for Green Buildings through Evolutionary Polynomial Regression
+AU  - Domenico Enrico Massimo
+AU  - Pierfrancesco De Paola
+AU  - Mariangela Musolino
+AU  - Alessandro Malerba
+AU  - Francesco Paolo Del Giudice
+DO  - 10.3390/buildings12050621
+PY  - 2022
+AB  - This study concerns the determination of empirical evidence of a real estate market premium for Green Buildings and of an aware role of the private real estate market as driver to foster-up urban and architectural sustainability and energy efficiency. In real estate markets, there is growing relevance of Green Buildings, especially in cities where the greater part of residential buildings is built before the first regulations on energy performance. Through policies oriented towards sustainable practices, a twofold goal can be achieved: energy consumption mitigation respecting the historical value for existing buildings, direct economic impacts on real estate values. In some metropolitan or urban contexts, the “green premium” for buildings can be understood as a real “gold premium”. This result has been highlighted and quantified with a real estate market analysis developed for a central area of an Italian mid-size city, pursued through the innovative tool of Evolutionary Polynomial Regression (EPR). The study highlighted a higher sale price for properties characterized by the best ecological characteristics and energy efficiency (+41.52%).
+JA  - Buildings
+L2  - https://doi.org/10.3390/buildings12050621
+U2  - 4229336686
+ER  - 
+TY  - JOUR
+TI  - Market response to the public display of energy performance rating at property sales
+AU  - Ole Michael Jensen
+AU  - Anders Rhiger Hansen
+AU  - Jesper Kragh
+DO  - 10.1016/j.enpol.2016.02.029
+PY  - 2016
+AB  - Energy labels have generally received positive response from consumers and have moved the market for white goods and cars in the direction of more energy-efficient products. On the real estate market, it was expected that an energy label, rating the energy performance of a property based on a national energy performance certificate (EPC) might receive similar response. However, in Denmark no response to the energy performance rating was observed for 15 years. This was a surprise considering that Denmark was the first country to implement an A to G rating of the energy performance of buildings. A statistical examination of data on property sales prices and energy performance ratings was carried out. All relevant property transaction data from 2007 till 2012 were examined and they showed that energy performance ratings had an impact on property sales prices. However, before June 2010, the impact was modest, whereas after June 2010 the impact of energy performance ratings on property sales prices increased significantly as a result of an EU requirement to display the energy performance rating in connection with property sales. On this background, it was concluded that a public display of the energy performance rating is fundamental for market response.
+JA  - Energy Policy
+L2  - https://doi.org/10.1016/j.enpol.2016.02.029
+U2  - 2306170430
+ER  - 
+TY  - JOUR
+TI  - On the Economics of Energy Labels in the Housing Market
+AU  - Dirk Brounen
+AU  - Nils Kok
+DO  - 10.1016/j.jeem.2010.11.006
+PY  - 2011
+AB  - Energy efficiency in the residential housing market can play an important role in the reduction of global carbon emissions. This paper reports the first evidence on the market adoption and economic implications of energy performance certificates implemented by the European Union. The results show that adoption rates are low and declining over time, coinciding with a negative sentiment regarding the label in the popular media. Labels are clustered among smaller, post-war homes in neighborhoods with more difficult selling conditions. We also document that geographic variation in the adoption rate of energy labels is positively related to the fraction of "green" voters during the 2006 national elections. Within the sample of labeled homes, the energy label creates transparency in the energy efficiency of dwellings. Our analysis shows that consumers capitalize this information into the price of their prospective homes.
+JA  - Journal of Environmental Economics and Management
+L2  - https://doi.org/10.1016/j.jeem.2010.11.006
+U2  - 2148963890
+ER  - 
+TY  - JOUR
+TI  - Measuring the price premium of energy efficiency: A two-step analysis in the Italian housing market
+AU  - Adriano Bisello
+AU  - Valentina Antoniucci
+AU  - Giuliano Marella
+DO  - 10.1016/j.enbuild.2019.109670
+PY  - 2020
+AB  - Abstract   Decarbonizing the building sector by means of the smart interconnection of increasingly efficient buildings is one of the European Union's goals in order to meet its climate and energy targets and a milestone in delivering future positive-energy cities. Energy performance certificates today, and smart readiness indicators tomorrow should positively influence consumers’ choices and orient them towards an appreciation of sustainable buildings. Although energy performance certificates are now required by law in the EU Member States, it remains to be seen whether and how local real estate markets react to them. To fill this gap, we analyzed a cross-sectional housing dataset in the Italian city of Bolzano, which serves as a noteworthy case study due to its compact urban form and the environmental awareness of its local society. We first tested a hedonic price model, and then its spatial specification. Considering the certified energy efficiency performance and the characteristics of the location among the explanatory variables, we found a price premium in excess of 6% on moving from the worst (“G”) to the best (“A”) energy efficiency class, all other characteristics being equal. The presence of a spillover effect to nearby properties can also be framed as an additional co-benefit of retrofitting.
+JA  - Energy and Buildings
+L2  - https://doi.org/10.1016/j.enbuild.2019.109670
+U2  - 2991981702
+ER  - 
+TY  - JOUR
+TI  - Energy performance certificates – Informing the informed or the indifferent?
+AU  - Jon Olaf Olaussen
+AU  - Are Oust
+AU  - Jan Tore Solstad
+DO  - 10.1016/j.enpol.2017.09.029
+PY  - 2017
+AB  - Energy Performance Certificates (EPCs) are intended to provide tenants and buyers with reliable information about the energy performance of buildings. As improved energy performance may increase building sale prices and rents, the EPCs are supposed to generate incentives for owners to invest in energy efficiency. The empirical evidence for a price premium associated with energy labels is, however, inconclusive and partly contradictory. By utilizing data from the Norwegian housing market, we reproduce the positive price premium effect found in earlier studies. However, when we check these results by taking advantage of the fact that the introduction of a mandatory energy certification system represents a quasi-natural experiment, we find no evidence of a price premium. On the contrary, we present evidence that there is no effect of the energy label itself.
+JA  - Energy Policy
+L2  - https://doi.org/10.1016/j.enpol.2017.09.029
+U2  - 2759010492
+ER  - 
+TY  - JOUR
+TI  - Valuation of energy performance certificates in the rental market – Professionals vs. nonprofessionals
+AU  - Aras Khazal
+AU  - Ole Jakob Sønstebø
+DO  - 10.1016/j.enpol.2020.111830
+PY  - 2020
+AB  - Abstract   The implementation of Energy Performance Certificates (EPCs) is expected to reduce energy consumption and carbon emissions by providing actors with information that can be used to make better-informed decisions. This paper is the first to investigate EPCs in the Norwegian residential rental market. Applying the hedonic multilevel approach using information from some 440,000 rental contracts over the period of 2011–2018, we find that labeled dwellings have a premium compared with non-labeled dwellings, and that the premium is increasing with a higher EPC-label. We further define two classes of lessors – professional (real estate agents) and nonprofessionals (homeowners) – to study potential heterogeneity in EPC valuation and find that professionals assign higher rents compared with nonprofessionals. Dwellings with high energy efficiency are associated with a higher premium if rented out by a professional, a significant part of which stemming from higher EPC valuation. The results are robust to a number of heterogeneity analyses and after controlling for sample selection bias and unobserved locational heterogeneity. The findings of this paper signify the necessity to increase awareness and public dissemination regarding the EPC policy.
+JA  - Energy Policy
+L2  - https://doi.org/10.1016/j.enpol.2020.111830
+U2  - 3087535605
+ER  - 
+TY  - JOUR
+TI  - Is there an economic case for energy-efficient dwellings in the UK private rental market?
+AU  - Franz Fuerst
+AU  - Michel Ferreira Cardia Haddad
+AU  - Hassan Adan
+DO  - 10.1016/j.jclepro.2019.118642
+PY  - 2020
+AB  - Abstract   The rented sector of the housing market is a key concern for policies trying to improve dwelling-level energy efficiency levels. Currently, stepping up energy efficiency levels in the residential sector is hindered by a number of uncertainties. For rental properties, this is complicated by the split incentive problem (i.e. landlords do not benefit directly from the savings arising from these investments). Instead, the benefits are enjoyed by the tenants of these upgraded properties via lower energy bills and/or enhanced thermal comfort. Hence, the only way to recoup the investments is typically for landlords to obtain higher rents. This study confirms that energy efficiency features, as measured by the Energy Performance Certificate rating, are positively associated with a small but significant influence on transaction prices and quoted rental prices. Conversely, there appears to be a price discount for dwellings in the lowest energy performance category. A model of time-on-market yields inconclusive results but there is some, albeit weak, evidence of a negative relationship between time-on-market and energy efficiency ratings as more energy efficient dwellings tend to lease up more quickly.
+JA  - Journal of Cleaner Production
+L2  - https://doi.org/10.1016/j.jclepro.2019.118642
+U2  - 2895120416
+ER  - 
+TY  - JOUR
+TI  - On the quality and impact of residential energy performance certificates
+AU  - Björn Hårsman
+AU  - Zara Daghbashyan
+AU  - Parth Chaudhary
+DO  - 10.1016/j.enbuild.2016.10.033
+PY  - 2016
+AB  - This paper addresses quality and impact issues concerning Energy Performance Certificates (EPC) by means of a dataset based upon the Swedish EPCs for single-family houses. Assuming that the quality of the certificates plays an important role for their impact, we examine to what extent various characteristics of the firms and experts issuing the certificates are influencing their assessments of energy consumption and energy conservation. Exploiting the information on biased assessments, we also investigate the relationship between the transaction price of a house and its EPC label. Doing so, we distinguish the attributes that can be observed by visiting the house and those that a buyer only can inform herself about through the EPC. Applying regression analyses we find that firm and expert characteristics matter quite a lot implying that the EPC-quality could be improved considerably by increasing the inter-rater reliability. The results also show that the price impact of the energy label is related to information that the buyers can obtain by visiting the house rather than to information uniquely provided by the EPCs. Hence, the EPCs per se are unlikely to stimulate energy conservation through the price mechanism.
+JA  - Energy and Buildings
+L2  - https://doi.org/10.1016/j.enbuild.2016.10.033
+U2  - 2539308717
+ER  - 
+TY  - JOUR
+TI  - EPC Green premium in two different european climate zones: a comparative study between Barcelona and Turin
+AU  - Federico Dell’Anna
+AU  - Marina Bravi
+AU  - Carlos Marmolejo-Duarte
+AU  - Marta Carla Bottero
+AU  - Ai Chen
+DO  - 10.3390/su11205605
+PY  - 2019
+AB  - Energy performance certificates (EPCs) are important tools aimed at improving buildings’ energy performance. They play a central role in the context of the Energy Performance of Buildings Directive (EPBD) which asks member states (MS) to take the necessary measures to establish a complete certification system. In this study, an application of the hedonic price method (HPM) assessing the effect of energy labels derived from the EPC on real estate market value is presented. The estimation methodology was applied to two European cities characterized by different climate conditions. The analysis was based on two datasets of listing prices referring to multi-family residential markets in Turin (Italy) and Barcelona (Spain). Four models for each dataset were applied to capture the marginal price of green attributes, but also to control for the spatial autocorrelation among values. The findings showed how the EPC has been applied in the two countries and how it has influenced the real estate market. Turin’s buyers pay more attention to the EPC label, while in Barcelona, they value much more single characteristics, such as air conditioning and a swimming pool, considered popular attributes among contemporary buildings in this climate zone. From the results, it is possible to deduce that the implementation of the EPC schemes is still irregular in EU countries and must be strengthened through a standardized rating model.
+JA  - Sustainability
+L2  - https://doi.org/10.3390/su11205605
+U2  - 2979685179
+ER  - 
+TY  - JOUR
+TI  - An exploratory investigation into the relationship between energy performance certificates and sales price: a polytomous universal model approach
+AU  - Michael McCord
+AU  - Peadar Davis
+AU  - John McCord
+AU  - J McCord
+AU  - Martin Haran
+AU  - Karen Davison
+DO  - 10.1108/jfmpc-08-2019-0068
+PY  - 2020
+AB  - The role of energy efficiency and particularly energy performance certificates (EPCs) has emerged as a topical and important aspect of real estate markets. Various studies have been carried out investigating the perceived capitalisation effects of energy efficiency on property prices. There, however, remains divergence of opinion whether the capitalisation effect is truly in existence with extant research showing differing magnitudes of effects, if any. To date, no study (that the authors are aware of) has investigated the nature of the transition between EPC bands and price effects. The purpose of this study is to add to the research of the energy efficiency of housing to examine the nature of the likelihood of property characteristics being associated with higher EPC scores and value.,This research undertakes a suite of methodological tests to investigate the more latent relationships between EPC bands and pricing behaviour using 3,797 achieved sales prices within the Belfast housing market. Binary logit regression models are specified in conjunction with a Polytomous Universal Model to examine the likelihood of EPC bands falling within a particular property type and the likelihood of any pricing effects.,The findings show the differing property types to comprise very distinct and complex relationships in terms of price and EPC banding. The binary logit model estimations for both terrace properties and apartments reveal an increased likelihood to obtain higher EPC scores, with the semi-detached sector displaying a “mixed effect” with detached property revealing decreased probability of having superior energy performance and decreased likelihood of having poorer energy performance. The ordinal model estimations indicate that sales price comprises no relationship with energy performance, inferring that there is no increased probability of an increase in sales price with higher EPC rating.,This research offers new insights and focus on achieving a better understanding of the nexus between energy performance and property characteristics using alternative modelling approaches. This provides more exploratory insights into the complex relationships and offers awareness for policy discourse in terms of targeting properties which will tend to be poorer in energy efficiency.
+JA  - Journal of Financial Management of Property and Construction
+L2  - https://doi.org/10.1108/jfmpc-08-2019-0068
+U2  - 3021172611
+ER  - 
+TY  - JOUR
+TI  - Green signalling effects in the market for energy-efficient residential buildings
+AU  - Franz Fuerst
+AU  - Elias Oikarinen
+AU  - Oskari Harjunen
+DO  - 10.1016/j.apenergy.2016.07.076
+PY  - 2016
+AB  - Empirical evidence from recent studies suggests that the price premium on energy-efficient buildings is potentially higher than the pure capitalisation of energy savings but the empirical evidence on the size of the non-savings components is scant. This study aims to fill this research gap by investigating whether the mandatory energy efficiency ratings for residential properties imply benefits that go beyond energy savings. Using a sample of several thousand apartment transactions from Helsinki, Finland, we first test if higher ratings were significantly associated with higher prices. In addition to a large number of property and neighbourhood characteristics, this dataset contains information on building-level energy usage which allows us to distinguish between the cost savings effect of energy consumption and the value of more intangible factors associated with the energy label. The hedonic model yields a statistically significant 3.3% price premium for apartments in the top three energy-efficiency categories and 1.5% when a set of detailed neighbourhood characteristics are included. When maintenance costs containing energy usage costs are added, a robust and significant price premium of 1.3% persists whereas no differentiation is found for the medium and lower rating categories. These findings may be indicative of energy-efficient buildings having signalling value – and therefore an additional incentive to invest in such buildings – for ‘green’ consumers. However, a favourable energy rating did not appear to speed up the sales process in the analysed market.
+JA  - Applied Energy
+L2  - https://doi.org/10.1016/j.apenergy.2016.07.076
+U2  - 2515912751
+ER  - 
+TY  - JOUR
+TI  - Green Premium Evidence from Climatic Areas: A Case in Southern Europe, Alicante (Spain)
+AU  - Paloma Taltavull de La Paz
+AU  - V. Raul Perez-Sanchez
+AU  - Raul-Tomas Mora-Garcia
+AU  - Juan-Carlos Perez-Sanchez
+DO  - 10.3390/su11030686
+PY  - 2019
+AB  - The existence of a green premium in house (asking) prices in Alicante province, Spain, are analyzed using circa 9000 property observations. In developing the sample, information from energy efficiency certificates was matched with two other databases. The model tests for green premium by climatic zones using pool Ordinary Least Squares (pool-OLS) and Instrumental Variables (IV) hedonic models, adds new knowledge concerning the existence of green premiums from Southern Europe, explores differences in their estimation by climatic zone, debates the nature of the estimated green parameters, and explains the role of endogeneity in hedonic green premium models. The empirical evidence assesses the sensitivity of asking price to either energy consumption (KWh) or carbon dioxide emissions (CO2) with an apparent premium of 3%, and captures an association with efficiency rating from G to F of 1.8% and from F to E of 1.1%. Significantly, the results relating to price responses show a distinct variation between the coast and the cooler climatic zone of the interior. The paper shows that energy efficiency incentive policies should discriminate by climatic areas, and provides a price reference by which to assess the amount of incentives needed to achieve European Union (EU) objectives.
+JA  - Sustainability
+L2  - https://doi.org/10.3390/su11030686
+U2  - 2914958690
+ER  - 
+TY  - JOUR
+TI  - Energy performance certificates in the Turin real estate market.
+AU  - Elena Fregonara
+AU  - Diana Rolando
+AU  - Patrizia Semeraro
+DO  - 10.1108/jerer-05-2016-0022
+PY  - 2017
+AB  - Purpose
+
+
+
+
+The purpose of this paper is to assess the impact of the Energy Performance Certificate (EPC) on the Italian real estate market, focusing on old buildings. The contribution of EPC labels to house prices and to market liquidity was measured to analyze different aspects of the selling process.
+
+
+
+
+Design/methodology/approach
+
+
+
+
+A traditional hedonic model was used to explain the variables of listing price, transaction price, time on the market and bargaining outcome. In addition to EPC labels, the building construction period and the main features of apartments were included in the model. A sample of 879 transactions of old properties in Turin in 2011-2014 was considered.
+
+
+
+
+Findings
+
+
+
+
+A first hedonic model let us suppose that low EPC labels (E, F and G) were priced in the market although EPC labels explained only 6-8 per cent of price variation. A second full hedonic model, which included apartment characteristics, revealed that EPC labels had no impact on prices.
+
+
+
+
+Originality/value
+
+
+
+
+In Italy EPC has been mandatory for house transactions since 2009, so there are few studies on the effect of EPC on the Italian real estate market at least to our knowledge. Furthermore, unusually for the Italian context, in this paper also transaction prices were analyzed, in addition to the more frequently used listing prices.
+JA  - Journal of European Real Estate Research
+L2  - https://doi.org/10.1108/jerer-05-2016-0022
+U2  - 2728265971
+ER  - 
+TY  - JOUR
+TI  - The capitalization of energy efficiency: Evidence from the housing market
+AU  - Erdal Aydin
+AU  - Dirk Brounen
+AU  - Nils Kok
+DO  - 10.1016/j.jue.2020.103243
+PY  - 2020
+AB  - Abstract   This paper investigates how private consumers capitalize energy efficiency in the housing market, and the extent to which the provision of an energy performance certificate (EPC) affects such capitalization. We explicitly address methodological lacunae in the literature, using an exhaustive battery of identification strategies. The results indicate that energy efficiency is indeed capitalized into home prices, with OLS estimates biased downwards. Using an IV approach, we find that as the level of energy efficiency increases by ten percent, the market value of the dwelling increases by around 2.2 percent – quite a precise reflection of both the required capital outlay and future energy savings. These results are confirmed in a repeat-sales analysis. Importantly, examining the role of energy performance certificates (EPCs), we document that the extent of capitalization of energy efficiency is not affected by information provision, questioning the continued need for government-imposed certification programs.
+JA  - Journal of Urban Economics
+L2  - https://doi.org/10.1016/j.jue.2020.103243
+U2  - 3007754392
+ER  - 
+TY  - JOUR
+TI  - The influence of housing location on energy ratings price premium in Alicante, Spain
+AU  - Maria-Francisca Cespedes-Lopez
+AU  - V. Raul Perez-Sanchez
+AU  - Raul-Tomas Mora-Garcia
+DO  - 10.1016/j.ecolecon.2022.107579
+PY  - 2022
+AB  - Location is, along with other aspects, one of the most important characteristics when determining the sale or rental price of a residential property. Energy rating is one of the characteristics involved in determining the rent or sale price of a house. Past research has shown the importance of this attribute in numerous studies. Moreover, these studies have found mixed results regarding the magnitude, direction, and statistical significance of energy rating price premiums. This research aims to determine whether housing location influences energy rating price premium. To achieve this objective, a least squares regression model and a multilevel model were estimated using a sample of 70,170 different residences that were offered for sale in the province of Alicante. The multilevel models show that, once the differences due to the location (comarca) had been eliminated, the energy rating label itself had an effect on the asking price and also that there was an effect for the relationship of the energy rating with the location characteristics (comarca). On the other hand, the variables that defined the energy ratings were not those responsible for the differences between the average asking prices of the residences in the comarcas.
+JA  - Ecological Economics
+L2  - https://doi.org/10.1016/j.ecolecon.2022.107579
+U2  - 4292358481
+ER  - 
+TY  - JOUR
+TI  - The Uneven Price Impact of Energy Efficiency Ratings on Housing Segments. Implications for Public Policy and Private Markets
+AU  - Carlos Marmolejo-Duarte
+AU  - Ai Chen
+DO  - 10.3390/su11020372
+PY  - 2019
+AB  - In the literature, there is extensive, although in some cases inconclusive, evidence on the impact of Energy Performance Certificates (EPC) on housing prices. Nonetheless, the question of whether such an impact is homogenous across residential segments remains highly unexplored. This paper addresses this latter issue utilizing multifamily listing data in metropolitan Barcelona. In doing so, first the entire sample is analyzed using a hedonic model. Second, the sample is split on the basis of a multivariate segmentation. Finally, separated hedonic models are specified again. The results suggest that in general, there is a modest impact of EPC ratings on listing prices, nonetheless it is not homogeneous across housing segments: (1) for the most modern apartments, with state-of-the-art features and active environmental comfort, energy ratings seem to play a null role in the formation of prices; (2) conversely, for the cheapest apartments, apartments boasting the most basic features, and apartments located in low-income areas, the “brown discount” is enormously significant, potentially depreciating the equity of those who have the least resources to carry out an energy retrofit. These results have implications for the assessment of the EPBD and its Spanish transposition, since a very well-intentioned environmental policy could have potentially harmful social repercussions in the absence of corrective measures.
+JA  - Sustainability
+L2  - https://doi.org/10.3390/su11020372
+U2  - 2909096282
+ER  - 
+TY  - JOUR
+TI  - Real Estate Price Formation: Energy Performance Certificates and the Role of Real Estate Agents
+AU  - Jon Olaf Olaussen
+AU  - Are Oust
+AU  - Jan Tore Solstad
+DO  - 10.1080/19498276.2021.2006875
+PY  - 2021
+AB  - 
+JA  - Journal of Sustainable Real Estate
+L2  - https://doi.org/10.1080/19498276.2021.2006875
+U2  - 4205546607
+ER  - 
+TY  - JOUR
+TI  - The Value of Energy Efficiency and the Role of Expected Heating Costs
+AU  - Andreas Mense
+DO  - 10.1007/s10640-017-0179-7
+PY  - 2018
+AB  - The German Energy Performance of Buildings Directive requires sellers on the housing market to provide detailed information on expected yearly energy consumption per square meter (energy performance, EPS). This paper uses variation in local fuel prices and climate, fuel types, and building ages to analyse the relationship between expected energy cost savings from energy efficient building structure and house prices in a data set of listing prices from all regions of Germany. Results suggest that heating cost considerations are less relevant than previously thought.
+JA  - Environmental and Resource Economics
+L2  - https://doi.org/10.1007/s10640-017-0179-7
+U2  - 2539612085
+ER  - 
+TY  - JOUR
+TI  - Is investing in energy efficiency worth it? Evidence for substantial price premiums but limited profitability in the housing sector
+AU  - Sergio Copiello
+AU  - Edda Donati
+DO  - 10.1016/j.enbuild.2021.111371
+PY  - 2021
+AB  - Abstract   The profitability of investing in building energy efficiency is investigated using distinct approaches. Firstly, a spatial autoregressive model is applied to housing price data in Padua, North-eastern Italy, and compared to a traditional hedonic price model in order to estimate the price premium - if any - commanded by the energy performance. The spatial dynamic model outperforms the hedonic one. In comparison to the energy rating band G, substantial price premiums are found to characterize the A-B bands and, to a lesser extent, the C-D bands. Secondly, the marginal benefit of building energy efficiency is derived from the price premium and compared to the marginal cost as estimated in previous studies. Investing in building energy efficiency turns out to be economically viable up to a certain extent. Outdated housing in the worst energy rating bands can be profitably refurbished up to an energy performance index of about 50 kWh/m2 y - namely, the B energy rating band on average. The same outdated housing can be profitably refurbished up to an energy performance index of about 40 kWh/m2 y provided the government does not withdraw current tax incentives in the near future.
+JA  - Energy and Buildings
+L2  - https://doi.org/10.1016/j.enbuild.2021.111371
+U2  - 3195919445
+ER  - 
+TY  - JOUR
+TI  - The effect of energy performance ratings over residential prices or how an insufficient control of architectural-quality may render spurious conclusions
+AU  - Carlos Marmolejo-Duarte
+AU  - Ai Chen
+DO  - 10.1016/j.cities.2022.103674
+PY  - 2022
+AB  - The European Union has relied upon information symmetry theory to foster decarbonization of existing buildings in cities under the hypothesis that efficient buildings receive a market premium. Hedonic analysis of housing prices across European cities suggests the existence of such a premium; while opinion-based research concludes that households pay scarce attention to energy performance when letting or buying a home. These approaches render inconclusive evidence regarding the role of energy-information symmetry as public policy in climate change mitigation through market prices. Since energy-efficiency attributes are contingent on the architectural quality of homes, poor control of the latter in hedonic models may bring biased conclusions regarding the former. The main contribution of this piece is to improve the control of these non-energy attributes using a visual inspection of listed apartments in Madrid and Barcelona. Results suggest that the energy-efficiency price premium completely disappears when other quality attributes are considered in full. This finding has large implications for energy and city policies. • Energy performance impact on housing prices fades out when controlling for architectural quality in Madrid and Barcelona. • Insufficient control of architectural quality may inflate the marginal price of energy efficiency in hedonic models. • Omitting the relationship between energy performance and homes' quality attributes may inflate hedonic agenda's results. • Administrative data sets used in hedonic models may be complemented by self-assessed quality attributes. • In Spain, the EPC scheme seems to fail in providing price differentiation in the residential market.
+JA  - Cities
+L2  - https://doi.org/10.1016/j.cities.2022.103674
+U2  - 4221098008
+ER  - 
+TY  - JOUR
+TI  - The market value of energy efficiency in buildings and the mode of tenure
+AU  - Konstantin A. Kholodilin
+AU  - Andreas Mense
+AU  - Claus Michelsen
+AU  - Claus Michelsen
+DO  - 10.1177/0042098016669464
+PY  - 2017
+AB  - Concerns about global warming and growing scarcity of fossil fuels require substantial changes in energy consumption patterns and energy systems, as targeted by many countries around the world. One key element to achieve such transformation is to increase energy efficiency of the housing stock. In this context, it is frequently argued that private investments are too low in the light of the potential energy cost savings. However, heterogeneous incentives to invest in energy efficiency, especially for owner-occupants and landlords, may serve as one explanation. This is particularly important for countries with a large rental sector, like Germany. Nevertheless, previous literature largely focuses on the payoffs owner-occupants receive, leaving out the rental market. This paper addresses this gap by comparing the capitalisation of energy efficiency in selling prices and rents, for both types of residences. For this purpose data from the Berlin housing market are analysed using hedonic regressions. The estima...
+JA  - Urban Studies
+L2  - https://doi.org/10.1177/0042098016669464
+U2  - 3021927192
+ER  - 
+TY  - JOUR
+TI  - Energy efficiency and economic value in affordable housing
+AU  - Andrea Chegut
+AU  - Piet Eichholtz
+AU  - Rogier Holtermans
+DO  - 10.1016/j.enpol.2016.06.043
+PY  - 2016
+AB  - Abstract   Strong rental protection in the affordable housing market often prohibits landlords from charging rental premiums for energy-efficient dwellings. This may impede (re)development of energy efficient affordable housing. In the Netherlands, affordable housing institutions regularly sell dwellings from their housing stock to individual households. If they can sell energy efficient dwellings at a premium, this may stimulate investments in the environmental performance of homes.  We analyze the value effects of energy efficiency in the affordable housing market, by using a sample of 17,835 homes sold by Dutch affordable housing institutions in the period between 2008 and 2013. We use Energy Performance Certificates to determine the value of energy efficiency in these transactions. We document that dwellings with high energy efficiency sell for 2.0–6.3% more compared to otherwise similar dwellings with low energy efficiency. This implies a premium of some EUR 3,000 to EUR 9,700 for highly energy efficient affordable housing.
+JA  - Energy Policy
+L2  - https://doi.org/10.1016/j.enpol.2016.06.043
+U2  - 3121423036
+ER  - 
+TY  - JOUR
+TI  - Does energy efficiency matter to home-buyers? An investigation of EPC ratings and transaction prices in England
+AU  - Franz Fuerst
+AU  - Patrick McAllister
+AU  - Anupam Nanda
+AU  - Peter Wyatt
+DO  - 10.1016/j.eneco.2014.12.012
+PY  - 2015
+AB  - This paper investigates whether energy performance ratings, as measured by mandatory Energy Performance Certificates (EPCs), are reflected in the sale prices of residential properties. This is the first large-scale empirical study of this topic in England involving 333,095 dwellings sold at least twice in the period from 1995 to 2012. Applying hedonic regression and an augmented repeat sales regression, we find a positive relationship between the energy efficiency rating of a dwelling and the transaction price per square metre. The price effects of superior energy performance tend to be higher for terraced dwellings and flats compared to detached and semi-detached dwellings. The evidence is less clear-cut for rates of house price growth but remains supportive of a positive association. Overall, the results of this study suggest that energy efficiency labels have a measurable and significant impact on house prices in England.
+JA  - Energy Economics
+L2  - https://doi.org/10.1016/j.eneco.2014.12.012
+U2  - 2025352602
+ER  - 
+TY  - JOUR
+TI  - How heterogeneous is the impact of energy efficiency on dwelling prices? Evidence from the application of the unconditional quantile hedonic model to the Portuguese residential market
+AU  - R. Evangelista
+AU  - J.A.E. Silva
+AU  - E.A. Ramalho
+DO  - 10.1016/j.eneco.2022.105955
+PY  - 2022
+AB  - 
+JA  - Energy Economics
+L2  - https://doi.org/10.1016/j.eneco.2022.105955
+ER  - 
+TY  - JOUR
+TI  - Doing good but not that well? : A dilemma for energy conserving homeowners
+AU  - Marie H. Wahlström
+DO  - 10.1016/j.eneco.2016.09.025
+PY  - 2016
+AB  - In this paper the issue of market capitalization of energy efficient buildings is addressed by considering single-family housing in Sweden and through analyzing as to what extent the market price for a house is influenced by its energy performance. Are Swedish homeowners doing well by doing good?
+JA  - Energy Economics
+L2  - https://doi.org/10.1016/j.eneco.2016.09.025
+U2  - 2529939258
+ER  - 
+TY  - JOUR
+TI  - A spatial analysis of EPCs in The Belfast Metropolitan Area housing market
+AU  - Michael McCord
+AU  - Daniel Lo
+AU  - Peadar Davis
+AU  - Lesley Hemphill
+AU  - John McCord
+AU  - Martin Haran
+DO  - 10.1080/09599916.2019.1697345
+PY  - 2020
+AB  - ABSTRACTEnergy performance remains a debated topic in real estate, particularly with reference to the capitalisation effect with property value. An emerging corpus of research studies have investig...
+JA  - Journal of Property Research
+L2  - https://doi.org/10.1080/09599916.2019.1697345
+U2  - 2989985740
+ER  - 
+TY  - JOUR
+TI  - EPC Labels and Building Features: Spatial Implications over Housing Prices
+AU  - Alice Barreca
+AU  - Elena Fregonara
+AU  - Diana Rolando
+DO  - 10.3390/su13052838
+PY  - 2021
+AB  - The influence of building or dwelling energy performance on the real estate market dynamics and pricing processes is deeply explored, due to the fact that energy efficiency improvement is one of the fundamental reasons for retrofitting the existing housing stock. Nevertheless, the joint effect produced by the building energy performance and the architectural, typological, and physical-technical attributes seems poorly studied. Thus, the aim of this work is to investigate the influence of both energy performance and diverse features on property prices, by performing spatial analyses on a sample of housing properties listed on Turin’s real estate market and on different sub-samples. In particular, Exploratory Spatial Data Analyses (ESDA) statistics, standard hedonic price models (Ordinary Least Squares—OLS) and Spatial Error Models (SEM) are firstly applied on the whole data sample, and then on three different sub-samples: two territorial clusters and a sub-sample representative of the most energy inefficient buildings constructed between 1946 and 1990. Results demonstrate that Energy Performance Certificate (EPC) labels are gaining power in influencing price variations, contrary to the empirical evidence that emerged in some previous studies. Furthermore, the presence of the spatial effects reveals that the impact of energy attributes changes in different sub-markets and thus has to be spatially analysed.
+JA  - Sustainability
+L2  - https://doi.org/10.3390/su13052838
+U2  - 3134133871
+ER  - 
+TY  - JOUR
+TI  - Energy Performance and Housing Prices
+AU  - Pontus Cerin
+AU  - Lars G. Hassel
+AU  - Natalia Semenova
+DO  - 10.1002/sd.1566
+PY  - 2014
+AB  - ABSTRACT We investigate whether mandatory energy performance certificates of existing residential properties contribute to property price premiums after the implementation of the EU directive on the energy performance of buildings in the Swedish private housing market. Analysing mandatory energy performance certificates of the 2009–2010 private housing transactions, we find that energy performance is associated with transaction price in situations when it is conditional on a reference benchmark. We also document property price premiums for energy performance within housing segments built before 1960 and those with a lower transaction price per square metre. Our results suggest that the property market values energy performance, and we make recommendations on which housing segments need policy support to encourage energy improvements. Copyright © 2014 John Wiley & Sons, Ltd and ERP Environment.
+JA  - Sustainable Development
+L2  - https://doi.org/10.1002/sd.1566
+U2  - 1568840751
+ER  - 
+TY  - JOUR
+TI  - Modelling the effect of energy performance certificate rating on property value in the Belfast housing market
+AU  - Peadar Davis
+AU  - John McCord
+AU  - Michael McCord
+AU  - Martin Haran
+DO  - 10.1108/ijhma-09-2014-0035
+PY  - 2015
+AB  - Purpose - – This study aims to investigate the relationship between energy performance and property sale price in the Belfast housing market. How energy efficiency is contributes to sale price and thus appraisal value is of growing concern. The obligatory measurement of energy efficiency in private dwellings seeks to encourage improvements in energy performance. This may be capitalised into property value and may stimulate demand for energy-efficient buildings. However, the relationship between energy performance and property value remains nebulous, complex and under-researched – in part due to data limitations. Design/methodology/approach - – Using a hedonic pricing specification, this paper measures the effect of energy performance certificates (EPCs) on residential property value. It examines the relationship between 3,797 residential sales transactions across the Belfast housing market, showing the percentage effect on property value with respect to energy performance. Findings - – The results indicate a small but positive relationship between better energy performance and higher selling prices. Nonetheless, the findings point towards strong preference, demand tastes and a complex intra-relationship between EPCs and their capitalisation into property value. Pertinently, the findings point towards any energy-efficient-related price effect affect to be marginal alongside more “quality”-based market behaviours. Research limitations/implications - – Analogous with other studies, data deficiencies and a lack of incorporating price determining variables (missing determinants) such as heating type and glazing type introduces omitted variable bias and endogeneity problems within the model structure. Originality/value - – This paper contributes to emerging literature and policy debate surrounding the measurement and implementation of energy-efficiency certification through a greater understanding of energy performance characteristics in determining property value.
+JA  - International Journal of Housing Markets and Analysis
+L2  - https://doi.org/10.1108/ijhma-09-2014-0035
+U2  - 1760479344
+ER  - 
+TY  - JOUR
+TI  - The impact of Energy Performance Certificate level on house listing prices. First evidence from Italian real estate
+AU  - Elena Fregonara
+AU  - Diana Rolando
+AU  - Patrizia Semeraro
+AU  - Marta Vella
+DO  - 10.13128/aestimum-15459
+PY  - 2014
+AB  - The recent dispositions related to the energy performance of buildings, launched by the European Directives 2002/91/EC and 2010/31/EU, turned attention to the Energy Performance Certificate (EPC). The aim of this study is to investigate the economic effects of the recent Italian statutory provisions related to energy performance of buildings on listing behaviour. With this aim an hedonic regression analysis is performed, in order to measure the impact of EPC level on listing prices. The study, based on a set of more than 500 housing property asset collected in 2012 from real estate advertisements websites, is focused on the Turin real estate market as a case study. Furthermore this paper contributes to the early limited literature on implication of the impact of EPC level on Italian housing market, representing one of the first systematic evidence about the energy certifications in the housing listing prices.
+JA  - Aestimum
+L2  - https://doi.org/10.13128/aestimum-15459
+U2  - 1541384585
+ER  - 
+TY  - JOUR
+TI  - Energy performance certificates and house prices: a quantile regression approach
+AU  - Michael McCord
+AU  - J McCord
+AU  - Martin Haran
+AU  - Peadar Davis
+AU  - John McCord
+DO  - 10.1108/jerer-06-2020-0033
+PY  - 2020
+AB  - Purpose A number of studies have investigated the relationship between energy performance certificates (EPCs) and house prices. A majority of studies have tended to model energy performance pricing effects within a traditional hedonic conditional mean estimate model. There has been limited analysis that has accounted for the relationship between EPCs and the effects across the pricing distribution. Moreover, there has been limited research examining the “standard cost improvements EPC score”, or “potential score”. Therefore, this paper aims to quantify and measure the dynamic effects of EPCs on house prices across the price spectrum and account for standardised cost-effective retrofit improvements. Design/methodology/approach Existing EPC studies produce one coefficient for the entirety of the pricing distribution, culminating in a single marginal implicit price effect. The approach within this study applies a quantile regression approach to empirically estimate how quantiles of house prices respond differently to unitary changes in the proximal effects of EPCs and structural property characteristics across the conditional distribution of house prices. Using a data set of 1,476 achieved transaction prices, the quantile regression models apply both assessed EPC score and bands and further examine the potential EPC rating for improved energy performance based on an average energy cost improvement. Findings The findings show that EPCs are valued differently across the quantiles and that conditional quantiles are asymmetrical. Only property prices in the upper quantiles of the price distribution show significant capitalisation effects with energy performance, and only properties with higher EPC scores display positive significant effects at the higher end of the price distribution. There are also brown discount effects evident for lower-rated properties within F- and G-rated EPC properties at the higher end of the pricing distribution. Moreover, the potential energy efficiency rating (score) also shows increased effects with sales prices and appears to minimise any brown discount effects. The findings imply that energy performance is a complex feature that is not easily “averaged” for valuation effect purposes. Originality/value While numerous studies have investigated the pricing effects of EPCs, they have tended to provide a single estimate to determine the relationship with price. This paper extends the traditional analytical insights beyond the conditional mean estimate by examining the quantiles of the relationship between EPCs and house prices to enhance the understanding of this esoteric and complex issue. In addition, this research applies the assessed energy efficiency potential to establish whether effective cost improvements enhance the relationship with sales price and capitalisation effects.
+JA  - Journal of European Real Estate Research
+L2  - https://doi.org/10.1108/jerer-06-2020-0033
+U2  - 3048470267
+ER  - 
+TY  - JOUR
+TI  - Does energy efficiency matter for prices of tenant-owned apartments?
+AU  - David Stenvall
+AU  - Pontus Cerin
+AU  - Bo Sjö
+AU  - Gazi Salah Uddin
+DO  - 10.1007/s11356-022-20482-w
+PY  - 2022
+AB  - In this study, we use Energy Performance Certificate (EPC) information to investigate the effect of energy efficiency on the selling price of Swedish tenant-owned apartments. While there is a large body of literature on how energy efficiency affects the sales price of single-family houses, none has exclusively focused on tenant-owned apartments. For owners of tenant-owned apartments in Sweden, heating is for a large share included in the monthly fee paid to the tenant association, which usually does not change on a short-term basis. This raises the question whether homebuyers' incentives for acquiring energy-efficient tenant-owned apartments are large enough to be capitalized into the prices. By hedonic models and matching methods, we found mixed results. In our most optimistic scenarios, tenant-owned apartments enclosed in energy-efficient buildings are sold with a premium of approximately 0.8 to 1.2% compared to apartments in non-efficient buildings. The results in this study are not robust to all model specifications and vary across regions. In comparison with recent studies using data for single-family houses in Sweden, our detected capitalization is smaller. Our results highlight a need for targeted measures if EPCs are to be fully capitalized in prices for all dwelling types in which buyers have different economic incentives for reducing their energy consumption.
+JA  - Environmental Science and Pollution Research
+L2  - https://pubmed.ncbi.nlm.nih.gov/35508850
+U1  - 35508850
+U2  - 4229019629
+ER  - 
+TY  - JOUR
+TI  - The evolution of energy efficiency impact on housing prices. An analysis for Metropolitan Barcelona
+AU  - Carlos Ramiro Marmolejo Duarte
+AU  - Carlos Ramiro Marmolejo Duarte
+AU  - Carlos Marmolejo-Duarte
+AU  - Ai Chen
+AU  - Ai Chen
+DO  - 10.7764/rdlc.18.1.156
+PY  - 2019
+AB  - The Energy Performance of Buildings Directive has it made mandatory to include an energy performance certificate (EPC) on real estate advertisements so as to promote efficient properties. Previous research has found a positive correlation between residential prices and EPC’s energy ranks; nonetheless, the analysis of the evolution of such impact for the same market is still pending. This paper tries to shed light on this issue by analyzing the evolution of prices of the second largest urban agglomeration in Spain. In doing so, a pooled hedonic model is carried out departing from selling listing prices of apartments and a set of locative control variables. Results suggest that in a short period the energy premium for multifamily houses has positively evolved. As a result, a sharped market differentiation arises between inefficient and energy saving dwellings. Such findings have significant implications for the construction and real estate industry, since higher selling prices may compensate for higher building costs coming from energy efficient technologies.
+JA  - Revista De La Construccion
+L2  - https://doi.org/10.7764/rdlc.18.1.156
+U2  - 2942390231
+ER  - 
+TY  - JOUR
+TI  - On the use of hedonic regression models to measure the effect of energy efficiency on residential property transaction prices: Evidence for Portugal and selected data issues
+AU  - Rui Evangelista
+AU  - Rui Evangelista
+AU  - Esmeralda A. Ramalho
+AU  - Esmeralda A. Ramalho
+AU  - João Andrade e Silva
+AU  - João Andrade e Silva
+DO  - 10.1016/j.eneco.2020.104699
+PY  - 2020
+AB  - Abstract   Using a unique dataset of 256,000 residential property sales for Portugal, this paper reveals a clear sales premium for energy efficiency, which is more pronounced for apartments (13%) than for houses (5 to 6%). Price premiums tend to increase from 2009 to 2013, a period in which the Portuguese housing market was depressed. Quantile regression reveals that, when compared with the rest of the sample, the group of the most energy efficient properties receives a statistically relevant price premium, that is mostly stable across the entire spectrum of the conditional price distribution. Cross-country comparisons suggest that energy efficiency price premiums are higher than those found for central and northern European markets. Illustrations on the effect of data issues in hedonic regression models are provided. They show how the use of appraisal prices and explanatory variables with measurement errors may seriously bias energy efficiency partial effect estimates. In contrast, the omission of variables associated with the quality of the properties has not produced relevant distortions. Finally, it became apparent that the use of smaller datasets would have produced similar results, as no significance inflation was produced by the Portuguese large scale dataset.
+JA  - Energy Economics
+L2  - https://doi.org/10.1016/j.eneco.2020.104699
+U2  - 2918618707
+ER  - 
+TY  - JOUR
+TI  - The Influence of Energy Certification on Housing Sales Prices in the Province of Alicante (Spain)
+AU  - María Francisca Céspedes-López
+AU  - Raúl Tomás Mora García
+AU  - Vicente Raúl Pérez Sánchez
+AU  - Vicente Raúl Pérez Sánchez
+AU  - Pablo Martí Ciriquián
+AU  - Pablo Martí Ciriquián
+DO  - 10.3390/app10207129
+PY  - 2020
+AB  - This research and the ACP were partially funded by Universidad de Alicante (http://dx.doi.org/10.13039/100009092).
+JA  - Applied Sciences (Switzerland)
+L2  - https://doi.org/10.3390/app10207129
+U2  - 3093267751
+ER  - 
+TY  - JOUR
+TI  - Energy Performance Ratings and House Prices in Wales: An Empirical Study
+AU  - Franz Fuerst
+AU  - Patrick McAllister
+AU  - Anupam Nanda
+AU  - Peter Wyatt
+DO  - 10.1016/j.enpol.2016.01.024
+PY  - 2016
+AB  - This paper investigates the effect of Energy Performance Certificate (EPC) ratings on residential prices in Wales. Drawing on a sample of approximately 192,000 transactions, the capitalisation of energy efficiency ratings into house prices is investigated using two approaches. The first adopts a cross-sectional framework to investigate the effect of EPC rating on price. The second approach applies a repeat-sales methodology to investigate the impact of EPC rating on house price appreciation. Statistically significant positive price premiums are estimated for dwellings in EPC bands A/B (12.8%) and C (3.5%) compared to houses in band D. For dwellings in band E (−3.6%) and F (−6.5%) there are statistically significant discounts. Such effects may not be the result of energy performance alone. In addition to energy cost differences, the price effect may be due to additional benefits of energy efficient features. An analysis of the private rental segment reveals that, in contrast to the general market, low-EPC rated dwellings were not traded at a significant discount. This suggests different implicit prices of potential energy savings for landlords and owner-occupiers.
+JA  - Energy Policy
+L2  - https://doi.org/10.1016/j.enpol.2016.01.024
+U2  - 1856883588
+ER  - 
+TY  - JOUR
+TI  - Estimating the impact of energy efficiency on housing prices in Germany: Does regional disparity matter?
+AU  - L. Taruttis
+AU  - C. Weber
+DO  - 10.1016/j.eneco.2021.105750
+PY  - 2022
+AB  - 
+JA  - Energy Economics
+L2  - https://doi.org/10.1016/j.eneco.2021.105750
+ER  - 
+TY  - JOUR
+TI  - Energy Performance Certificates and Its Capitalization in Housing Values in Sweden
+AU  - Mats Wilhelmsson
+AU  - Mats Wilhelmsson
+DO  - 10.3390/su11216101
+PY  - 2019
+AB  - The impact on energy performance certificates on housing prices has been investigated extensively in recent years. However, the results of these investigations are mixed. We add to the literature by more specifically controlling for potential biases, by employing a combination of alternative approaches to estimate the causal relationship between house prices and energy performance certificates. We use a traditional hedonic modeling approach, but we additionally employ propensity score methods to be able to compare treated houses with a control group. We also investigate the impact of the outliers, spatial dependency, and parameter heterogeneity of our estimates. Moreover, we use the quantile regression technique to test the hypothesis that the capitalization effect varies across the price distribution. Our results, analyzing more than 100,000 observations, indicate there is an upward bias if one is not controlling for outlier and selection bias. Regardless of the propensity score method approach, the results are lower than a model (around 3 percent capitalization, compared to 6 percent). However, our results do not support that the impact of energy performance certificates varies in the price distribution. Consequently, the certificates are not differently capitalized in the high-end housing price segment. Finally, our results support the hypothesis that the energy performance certificate should be more capitalized into house prices in the northern and colder parts of Sweden than in the southern regions.
+JA  - Sustainability
+L2  - https://doi.org/10.3390/su11216101
+U2  - 2986454697
+ER  - 
+TY  - JOUR
+TI  - Spatial implications of EPC rankings over residential prices
+AU  - Carlos Marmolejo-Duarte
+AU  - Ai Chen
+AU  - Marina Bravi
+DO  - 10.1007/978-3-030-23786-8_4
+PY  - 2020
+AB  - Empirical evidence has found a correlation between Energy Performance (EPC) rankings and housing prices. Though, little attention has been devoted to research the spatial implications of EPC marginal prices. This paper attempts to fill this gap using a geographical-weighted-regression, departing from listing prices for Barcelona. The results suggest the existence of a premium equivalent to 1.7% for each EPC ranking, which nearly double the previous reported evidence in this city. Also, the impact shows a non-stationary distribution across urban space. As a matter of fact, the higher the impact, the lower the price of apartments and their quality. The apartments portraying the larger impact are located in peripheral areas inhabited by medium and low-income population. So, the equity of less wealthy population witnesses the largest brown discount.
+JA  - Values and Functions for Future Cities
+L2  - https://doi.org/10.1007/978-3-030-23786-8_4
+U2  - 2964799345
+ER  - 
