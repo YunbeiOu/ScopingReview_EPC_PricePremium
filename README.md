@@ -1,6 +1,6 @@
 # The Price Premium of Residential Energy Performance Certificates: A Scoping Review of the European Literature
 
-This is the repository for research data/code on the scoping review paper. 
+This is the repository for research data/code on the scoping review paper: The Price Premium of Residential Energy Performance Certificates (EPCs): A Scoping Review of the European Literature. The review aims to summarise studies on price premium of EPCs in terms of (1) research scope/scale, (2) research methods, and (3) research methods.
 
 ## 1. Searching and screening
 
