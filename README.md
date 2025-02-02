@@ -1,17 +1,28 @@
-# The Price Premium of Residential Energy Performance Certificates: A Scoping Review of the European Literature
+# Paper title: The Price Premium of Residential Energy Performance Certificates: A Scoping Review of the European Literature
 
-This is the repository for research data/code on the scoping review paper: The Price Premium of Residential Energy Performance Certificates (EPCs): A Scoping Review of the European Literature. The review aims to summarise studies on price premium of EPCs in terms of (1) research scope/scale, (2) research methods, and (3) research methods.
+This repository deposits all the search commands, data, and code we used for our research paper to allow for reproducibility.
 
-## 1. Searching and screening
+## Authors
+Yunbei Ou, Nick Bailey, David Philip McArthur, Qunshan Zhao
 
-This folder contains all the files and data in the systematic literature searching and screening process. The files are in order, showing a sequential, transparant process.
+## Usage
+This repo can be downloaded/cloned locally
 
-The whole process include: (1) search command, (2) database searching results, (3) screening (two stages), (4) screening sample check.
+## Data
+Data folder contains all the files and data generated in the searching and screening process. The subfolders/files are in order, showing a sequential, transparant process.
 
-## 2. Data extraction
+The whole searching and screening process:
+![alt text](Figures/Figure_1.png)
 
-The data extraction results (at literature and model level) as presented in .csv/.xlsx formats. 
+The data extraction results (both literature and model level) are available in .csv/.xlsx formats. 
 
-## 3. Data analysis
+## Analysis notebook
+The 'Data_analysis.ipynb' shows Python code for data preprocessing, analysis, and visualisation on extracted data ('Data/03Data_extraction/literatures.csv' and 'Data/03Data_extraction/models.csv'), including all results in the research paper. 
 
-Python code for data analysis on data extraction results. It includes all analysis for results presented in the scoping review paper. 
+
+
+
+
+
+
+
