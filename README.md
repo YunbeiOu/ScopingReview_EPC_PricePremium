@@ -24,7 +24,7 @@ https://doi.org/10.1016/j.enbuild.2025.115377.
 Data folder contains all the files and data generated in the searching and screening process. The subfolders/files are in order, showing a sequential, transparant process.
 
 The whole searching and screening process:
-![alt text](Figures/Figure_1.png)
+![alt text](Figures/Figure_1.png=100x100)
 
 The data extraction results (at both literature and model level) are available in .csv/.xlsx formats. 
 
