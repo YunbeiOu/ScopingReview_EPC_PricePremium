@@ -19,6 +19,7 @@ https://doi.org/10.1016/j.enbuild.2025.115377.
 > - Downloade/clone repo locally
 > - Run the 'Data_analysis.ipynb' in the original file structure
 
+
 ## Data
 Data folder contains all the files and data generated in the searching and screening process. The subfolders/files are in order, showing a sequential, transparant process.
 
