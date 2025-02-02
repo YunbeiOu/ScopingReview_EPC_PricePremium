@@ -16,7 +16,7 @@ https://doi.org/10.1016/j.enbuild.2025.115377.
 (https://www.sciencedirect.com/science/article/pii/S0378778825001070)
 
 ## Usage
-> - Downloade/clone repo locally
+> - Download/clone repo locally
 > - Run the 'data_analysis.ipynb' in the original file structure
 
 
