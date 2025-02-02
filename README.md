@@ -16,7 +16,8 @@ https://doi.org/10.1016/j.enbuild.2025.115377.
 (https://www.sciencedirect.com/science/article/pii/S0378778825001070)
 
 ## Usage
-This repo can be downloaded/cloned locally
+> - Downloade/clone repo locally
+> - Run the 'Data_analysis.ipynb' in the original file structure
 
 ## Data
 Data folder contains all the files and data generated in the searching and screening process. The subfolders/files are in order, showing a sequential, transparant process.
@@ -28,6 +29,9 @@ The data extraction results (both literature and model level) are available in .
 
 ## Analysis notebook
 The 'Data_analysis.ipynb' shows Python code for data preprocessing, analysis, and visualisation on extracted data ('Data/03Data_extraction/literatures.csv' and 'Data/03Data_extraction/models.csv'), including all results in the research paper. 
+
+## Acknowledgements
+This work was made possible by the ESRC-funded Advanced Quantitative Methods (AQM) Doctoral Studentship [ES/P000681/1] and ESRC’s on-going support for the Urban Big Data Centre [ES/L011921/1 and ES/S007105/1]. Dr Qunshan Zhao has received the support from the Royal Society International Exchange Scheme [IEC\NSFC\223042].
 
 
 
