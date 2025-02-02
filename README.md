@@ -1,6 +1,6 @@
 # Paper title: The Price Premium of Residential Energy Performance Certificates: A Scoping Review of the European Literature
 
-This repository deposits all the search commands, data, and code we used for our research paper to allow for reproducibility.
+This repository deposits all the search commands, data, and code used for our research paper to allow for reproducibility.
 
 ## Authors
 Yunbei Ou, Nick Bailey, David Philip McArthur, Qunshan Zhao
