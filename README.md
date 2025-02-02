@@ -37,7 +37,8 @@ The 'data_analysis.ipynb' shows Python code for data preprocessing, analysis, an
 ## Acknowledgements
 This work was made possible by the ESRC-funded Advanced Quantitative Methods (AQM) Doctoral Studentship [ES/P000681/1] and ESRC’s on-going support for the Urban Big Data Centre [ES/L011921/1 and ES/S007105/1]. Dr Qunshan Zhao has received the support from the Royal Society International Exchange Scheme [IEC\NSFC\223042].
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
