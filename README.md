@@ -2,10 +2,9 @@
 
 This repository deposits all the search commands, data, and code used for our research paper to allow for reproducibility.
 
-## Authors
-Yunbei Ou, Nick Bailey, David Philip McArthur, Qunshan Zhao
+Authors: Yunbei Ou, Nick Bailey, David Philip McArthur, Qunshan Zhao
 
-## Citation
+Citation: 
 Yunbei Ou, Nick Bailey, David Philip McArthur, Qunshan Zhao,
 The price premium of residential energy performance certificates: A scoping review of the European literature,
 Energy and Buildings,
