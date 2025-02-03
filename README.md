@@ -1,4 +1,4 @@
-# Paper title: The Price Premium of Residential Energy Performance Certificates: A Scoping Review of the European Literature
+# The Price Premium of Residential Energy Performance Certificates: A Scoping Review of the European Literature
 
 This repository deposits all the search commands, data, and code used for our research paper to allow for reproducibility.
 
